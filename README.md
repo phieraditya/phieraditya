@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: She | Her
 - 🔭 I’m currently looking for a job as a Front-End Web Developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: pursuing baking as hobby
