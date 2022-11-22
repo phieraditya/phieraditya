@@ -32,7 +32,7 @@
 
 ### 🤝 Connect with Me
 <a href="mailto:devinoraya.radityapalma@gmail.com?subject=[GitHub]%20🔥%20Initial%20contact&body=Hi%20Phie%2C%0A%0A"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://phieraditya.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://phieraditya.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 <!--
 **phieraditya/phieraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
