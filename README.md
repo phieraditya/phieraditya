@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Web Development
-- ⚡ Fun fact: pursuing baking as hobby
+- ⚡ Fun fact: pursuing baking as a hobby, enjoying cycling on the weekends
 
 
 ### 🌐 Tech Stack
