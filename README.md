@@ -3,11 +3,11 @@
 ### 👩‍💻 About Me
 
 - 😄 Pronouns: She | Her
-- 🔭 I’m currently looking for a job as a Front-End Web Developer
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about Web Development
-- ⚡ Fun fact: pursuing baking as a hobby, enjoying cycling on the weekends
+- 🔭 I’m currently looking for a job as a Product Manager
+- 🌱 I’m currently learning Product Analytics
+- 👯 I’m looking to collaborate on open-source/commercial projects as a Product Manager
+- 💬 Ask me about Product Management
+- ⚡ Fun fact: I am an introvert who likes to meet new people, experience new cultures, and travel to new places
 
 
 ### 🌐 Tech Stack
